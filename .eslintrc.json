@@ -69,6 +69,6 @@
     "vars-on-top": "warn",
     "no-proto": "off",
     "no-param-reassign": "warn",
-    "handle-callback-err": "^.*(e|E)rr"
+    "handle-callback-err": "error"
   }
 }
