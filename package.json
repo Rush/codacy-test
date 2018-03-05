@@ -1,0 +1,24 @@
+{
+  "name": "codacy-test",
+  "version": "1.0.0",
+  "description": "Testing codacy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rush/codacy-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rush/codacy-test/issues"
+  },
+  "homepage": "https://github.com/Rush/codacy-test#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "module-alias": "^2.0.6"
+  }
+}
