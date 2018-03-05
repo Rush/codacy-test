@@ -51,7 +51,7 @@
     ],
     "eol-last": "off",
     "prefer-destructuring": "warn",
-    "prefer-arrow-callback": "warn",
+    "prefer-arrow-": "warn",
     "padded-blocks": "warn",
     "object-shorthand": "warn",
     "prefer-template": "warn",
@@ -68,6 +68,7 @@
     "consistent-return": "warn",
     "vars-on-top": "warn",
     "no-proto": "off",
-    "no-param-reassign": "warn"
+    "no-param-reassign": "warn",
+    "handle-callback-err": "^.*(e|E)rr"
   }
 }
