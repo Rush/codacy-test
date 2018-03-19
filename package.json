@@ -16,9 +16,13 @@
     "url": "https://github.com/Rush/codacy-test/issues"
   },
   "homepage": "https://github.com/Rush/codacy-test#readme",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
+    "danger": "^3.2.0",
+    "danger-plugin-eslint": "^0.1.0",
+    "eslint": "^4.19.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0",
     "module-alias": "^2.0.6"
   }
 }

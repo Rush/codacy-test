@@ -68,6 +68,7 @@
     "consistent-return": "warn",
     "vars-on-top": "warn",
     "no-proto": "off",
-    "no-param-reassign": "warn"
+    "no-param-reassign": "warn",
+    "handle-callback-err": "error"
   }
 }
