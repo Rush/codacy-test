@@ -51,7 +51,7 @@
     ],
     "eol-last": "off",
     "prefer-destructuring": "warn",
-    "prefer-arrow-": "warn",
+    "prefer-arrow-callback": "warn",
     "padded-blocks": "warn",
     "object-shorthand": "warn",
     "prefer-template": "warn",
